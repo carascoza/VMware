@@ -21,6 +21,7 @@ Date: 13/08/2024
 | Powercli              | Ambinete de scripts         |[ Powercli](./Powercli/README.MD)                           |
 | vSphere               | Servidores Infra            |[ vSphere](./vSphere/README.md)                             |
 | Machine               | Vms                         |[ Machine](./Machine/README.md)                             |
+| Linux                 | S.O Linux                   |[ Linux](./Linux/README.md)                                 |
 
 ## Sites e Referências VMware
 
